@@ -1,0 +1,2 @@
+jakub,jj,kk
+ja,ok,heslo
