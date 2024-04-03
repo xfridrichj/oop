@@ -1,0 +1,45 @@
+-bug ked viackrat kliknes potvrdit, zapisu sa obe varianty/namiesto jednej
+- neobmedzene mnozstvo otazok, obmedzit alebo pridat scroll??
+
+- counter pre moznosti, pocet volieb moznosti, zatial anonymne
+- posledny button, manageSurveys, scena na menezovanie ankiet
+
+- redundantne prechadzanie celeho file "data.txt"
+
+//start of survey 1
+*
+@author/usernam@
+#code
+$
+Question 1
+%
+Option 1
+Option 2
+%
+$
+Question 2
+%
+Option 1
+Option 2
+%
+/
+//end of survey 1
+
+//start of survey 2
+*
+@author/usernam@
+#code
+$
+Question 1
+%
+Option 1
+Option 2
+%
+$
+Question 2
+&
+Option 1
+Option 2
+&
+/
+//end of survey 1

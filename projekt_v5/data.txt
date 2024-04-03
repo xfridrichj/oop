@@ -1,0 +1,95 @@
+*
+@user@
+#95942
+$
+len test
+%
+prva moznost
++
+druha moznost
++
+%
+/
+
+*
+@user@
+#23610
+$
+futbal alebo hokej?
+%
+futbal
++
+hokej
++
+%
+$
+dnes je piatok
+%
+ano
++
+nie
++
+%
+/
+
+*
+@user@
+#76366
+$
+Nejaka zaujimava otazka
+%
+este viac zaujimava odpoved
++
+dalsia velmi zaujimava odpoved
++
+neviem
++
+%
+$
+Ako sa dnes mas?
+%
+dobre
++
+zle
++
+%
+/
+
+*
+@admin@
+#64070
+$
+test
+%
+nieco
++
+??
++
+
++
+%
+%
+
++
+%
+/
+
+*
+@admin@
+#64070
+$
+test
+%
+nieco
++
+??
++
+
++
+%
+%
+
++
+%
+/
+

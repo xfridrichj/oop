@@ -1,0 +1,9 @@
+*
+admin
+heslo
+/
+
+*
+user
+1234
+/
